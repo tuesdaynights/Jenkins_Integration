@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6626" started-at="2018-03-08T20:02:48Z" finished-at="2018-03-08T20:02:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6626" started-at="2018-03-08T20:02:48Z" finished-at="2018-03-08T20:02:54Z">
+      <class name="test.Selenium_Jenkins_Integration">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.Selenium_Jenkins_Integration@724af044]" name="setUp" is-config="true" duration-ms="4055" started-at="2018-03-08T20:02:48Z" finished-at="2018-03-08T20:02:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:test.Selenium_Jenkins_Integration@724af044]" name="test" duration-ms="1893" started-at="2018-03-08T20:02:52Z" finished-at="2018-03-08T20:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.Selenium_Jenkins_Integration@724af044]" name="tearDown" is-config="true" duration-ms="599" started-at="2018-03-08T20:02:54Z" finished-at="2018-03-08T20:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.Selenium_Jenkins_Integration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
